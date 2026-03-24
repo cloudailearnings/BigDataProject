@@ -1,0 +1,7 @@
+RequestID,CustomerID,RequestDate,AccountType,Branch,Amount,Status,Reason
+WR001,C001,2025-07-10 10:15,Savings,Mumbai,5000,Approved,Rent
+WR002,C002,2025-07-10 11:30,Checking,Bangalore,120000,Pending,Medical Emergency
+WR003,C003,2025-07-10 12:45,Savings,Delhi,1500,Rejected,Invalid Account
+WR004,C001,2025-07-11 09:00,Savings,Mumbai,45000,Approved,Education
+WR005,C004,2025-07-11 10:00,Checking,Hyderabad,95000,Pending,Loan Repayment
+WR006,C005,2025-07-12 14:30,Savings,Pune,800,Approved,Groceries
