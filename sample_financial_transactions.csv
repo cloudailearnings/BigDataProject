@@ -1,0 +1,9 @@
+TransactionID,CustomerID,TransactionDate,TransactionType,Amount,AccountType,Branch
+TXF001,CUST01,2025-07-01,Deposit,10500,Savings,Bangalore
+TXF002,CUST02,2025-07-02,Withdrawal,2000,Checking,Delhi
+TXF003,CUST01,2025-07-02,Deposit,8000,Savings,Bangalore
+TXF004,CUST03,2025-07-03,Deposit,5000,Savings,Mumbai
+TXF005,CUST04,2025-07-04,Withdrawal,1500,Checking,Delhi
+TXF006,CUST02,2025-07-04,Deposit,9500,Checking,Delhi
+TXF007,CUST05,2025-07-05,Deposit,11000,Savings,Bangalore
+TXF008,CUST03,2025-07-06,Withdrawal,2500,Savings,Mumbai
